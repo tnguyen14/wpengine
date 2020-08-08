@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/wp-trigger-github"]
+	path = wp-content/plugins/wp-trigger-github
+	url = https://github.com/gglukmann/wp-trigger-github.git
